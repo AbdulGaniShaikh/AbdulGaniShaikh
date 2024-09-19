@@ -3,7 +3,7 @@
 <p>👨🏻‍💻Hi there, I'm Abdul Gani Shaikh, a Java Full-Stack developer adept at crafting dynamic websites. With expertise in languages like Java, JavaScript, and Typescript, backend frameworks such as Spring, Spring Boot, Node.js, and Express, and frontend technologies like React, HTML, CSS, Bootstrap, and Tailwind, I ensure both functionality and aesthetics are seamlessly integrated. My database proficiency spans MySQL, MongoDB, Redis, and Firebase Firestore.</p>
 
 <p align="center">
-    <a href="https://github.com/ayushjha119"><span>
+    <a href="https://github.com/AbdulGaniShaikh"><span>
         <img align="center"
           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdulGaniShaikh&theme=github_dark" width="100%" />
       </span></a>
